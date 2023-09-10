@@ -5,4 +5,3 @@ class Product:
         self.invNr = invNr
         self.location = location
 
-    def addNewProduct(self):
